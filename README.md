@@ -17,8 +17,8 @@ The Flash Sale Backend is a Node.js application designed to manage flash sales i
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Junkie24/Real-Time-Quiz-Game
-   cd real-time-quiz-game
+   git clone https://github.com/Junkie24/flash-sale-backend
+   cd flash-sale-backend
    ```
 
 2. **Install dependencies:**
