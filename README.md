@@ -17,7 +17,7 @@ The Flash Sale Backend is a Node.js application designed to manage flash sales i
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Junkie24/flash-sale-backend
+   git clone https://github.com/harshit-2410/flash-sale-backend
    cd flash-sale-backend
    ```
 
